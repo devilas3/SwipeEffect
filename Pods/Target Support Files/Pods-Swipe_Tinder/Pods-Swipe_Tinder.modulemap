@@ -1,0 +1,6 @@
+framework module Pods_Swipe_Tinder {
+  umbrella header "Pods-Swipe_Tinder-umbrella.h"
+
+  export *
+  module * { export * }
+}
